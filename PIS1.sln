@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PIS1", "PIS1.csproj", "{80DC8B20-5811-4DE3-9022-5A90F596D95E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80DC8B20-5811-4DE3-9022-5A90F596D95E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80DC8B20-5811-4DE3-9022-5A90F596D95E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80DC8B20-5811-4DE3-9022-5A90F596D95E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80DC8B20-5811-4DE3-9022-5A90F596D95E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C27A1B1F-BB4E-494C-A98C-BB393B6C119A}
+	EndGlobalSection
+EndGlobal
