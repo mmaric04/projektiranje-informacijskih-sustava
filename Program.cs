@@ -1,5 +1,9 @@
 ﻿using System;
 
+class NewClass { 
+
+}
+
 namespace PIS1
 {
     class Program
